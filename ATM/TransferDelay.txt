@@ -1,0 +1,3 @@
+Log File for Transfer Transition
+ CardNumber   BankName    AmountOfTransferedMoney    ArrivalTime   CardInsertionTime      Process time     TottalWaitingTime till now   TotalProcessTime till now 
+========================================================================= 

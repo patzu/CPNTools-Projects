@@ -1,0 +1,3 @@
+Log File for ShowBalance Transition
+ CardNumber   BankName     ArrivalTime   CardInsertionTime      Process time     TottalWaitingTime till now   TotalProcessTime till now 
+========================================================================= 

@@ -1,0 +1,3 @@
+Log File for Withdrawal Transition
+ CardNumber    BankName    AmountOfTakenMoney    ArrivalTime   CardInsertionTime      Process time     TottalWaitingTime till now   TotalProcessTime till now 
+========================================================================= 
