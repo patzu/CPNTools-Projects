@@ -1,6 +1,11 @@
 # CPN Tools Projects by Davoud Badamchi
 
-Welcome to my repository of Coloured Petri Nets (CPN) projects, where I have implemented a diverse array of algorithms using CPN Tools. These projects demonstrate the versatility of CPN in modeling and simulating various computational and systems processes.
+Welcome to my repository of Coloured Petri Nets (CPN) projects, where I have implemented a diverse array of algorithms using CPN Tools. These projects were developed during the academic year 2012-2013 as part of the 'Advanced Software Engineering' course under the guidance of Professor Saeed Pashazadeh at Tabriz University. They demonstrate the versatility of CPN in modeling and simulating various computational and systems processes.
+
+## Academic Context
+
+The 'Advanced Software Engineering' course at Tabriz University, specifically in the Electrical and Computer Science Department, taught by Professor Saeed Pashazadeh, played a pivotal role in the development of these projects. The course covered extensive topics in software engineering, with a particular focus on modeling and simulation techniques using Coloured Petri Nets. The academic setting of the Electrical and Computer Science Department provided a rich backdrop for exploring and implementing these advanced concepts.
+
 
 ## Projects Overview
 
@@ -27,4 +32,3 @@ Welcome to my repository of Coloured Petri Nets (CPN) projects, where I have imp
 ## Usage and Contribution
 
 These projects are open for use, study, and modification. I welcome contributions, suggestions, and discussions regarding these implementations. Feel free to fork, star, or contribute to this repository!
-
