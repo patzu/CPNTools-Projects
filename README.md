@@ -1,4 +1,4 @@
-# CPN Tools Projects by Davoud badamchi
+# CPN Tools Projects by Davoud Badamchi
 
 Welcome to my repository of Coloured Petri Nets (CPN) projects, where I have implemented a diverse array of algorithms using CPN Tools. These projects demonstrate the versatility of CPN in modeling and simulating various computational and systems processes.
 
